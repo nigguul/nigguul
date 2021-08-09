@@ -1,8 +1,8 @@
 ## Seja bem vindo, sou o Guilherme Lima!
  <div>
   <a href="https://github.com/nigguul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dly-San&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DlySan Github Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dly-San&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Most Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nigguul&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="nigguul Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigguul&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Most Languages">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="nigguul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
